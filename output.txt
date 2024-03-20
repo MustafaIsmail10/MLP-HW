@@ -1,0 +1,330 @@
+Welcome to Part 3 - Charachter Classification using MLPs
+The maximum number of iterations is set to 3000
+------------------------------------------------------------
+Configuration: 0
+Leaning rate : 0.000100
+Number of hidden layers : 2
+Number of neurons in hidden layer : 64
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.863846 - Validation Loss 0.476135 - Training Accuracy 0.915027 - Training Loss 0.329623
+Run : 2 - Validation Accuracy : 0.862745 - Validation Loss 0.474057 - Training Accuracy 0.914847 - Training Loss 0.330106
+Run : 3 - Validation Accuracy : 0.839136 - Validation Loss 0.676719 - Training Accuracy 0.880450 - Training Loss 0.567995
+Run : 4 - Validation Accuracy : 0.838735 - Validation Loss 0.528231 - Training Accuracy 0.911987 - Training Loss 0.335906
+Run : 5 - Validation Accuracy : 0.861845 - Validation Loss 0.487871 - Training Accuracy 0.909987 - Training Loss 0.351442
+Run : 6 - Validation Accuracy : 0.856443 - Validation Loss 0.516311 - Training Accuracy 0.907807 - Training Loss 0.364444
+Run : 7 - Validation Accuracy : 0.835434 - Validation Loss 0.610163 - Training Accuracy 0.894348 - Training Loss 0.465368
+Run : 8 - Validation Accuracy : 0.812325 - Validation Loss 0.664588 - Training Accuracy 0.890209 - Training Loss 0.476299
+Run : 9 - Validation Accuracy : 0.854842 - Validation Loss 0.510615 - Training Accuracy 0.906347 - Training Loss 0.373223
+Run : 10 - Validation Accuracy : 0.839236 - Validation Loss 0.603469 - Training Accuracy 0.896428 - Training Loss 0.452730
+Mean : 0.846459
+Interval : [0.836804, 0.856113]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 1
+Leaning rate : 0.000100
+Number of hidden layers : 2
+Number of neurons in hidden layer : 64
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.776811 - Validation Loss 1.382824 - Training Accuracy 0.831953 - Training Loss 1.289985
+Run : 2 - Validation Accuracy : 0.787515 - Validation Loss 1.355449 - Training Accuracy 0.832913 - Training Loss 1.268285
+Run : 3 - Validation Accuracy : 0.769208 - Validation Loss 1.340663 - Training Accuracy 0.820834 - Training Loss 1.266501
+Run : 4 - Validation Accuracy : 0.810024 - Validation Loss 1.366640 - Training Accuracy 0.836493 - Training Loss 1.290145
+Run : 5 - Validation Accuracy : 0.753601 - Validation Loss 1.344984 - Training Accuracy 0.824054 - Training Loss 1.245432
+Run : 6 - Validation Accuracy : 0.799320 - Validation Loss 1.357358 - Training Accuracy 0.832973 - Training Loss 1.258941
+Run : 7 - Validation Accuracy : 0.813225 - Validation Loss 1.287432 - Training Accuracy 0.872350 - Training Loss 1.187692
+Run : 8 - Validation Accuracy : 0.812925 - Validation Loss 1.356828 - Training Accuracy 0.853872 - Training Loss 1.276904
+Run : 9 - Validation Accuracy : 0.811024 - Validation Loss 1.315837 - Training Accuracy 0.850172 - Training Loss 1.254246
+Run : 10 - Validation Accuracy : 0.797219 - Validation Loss 1.315078 - Training Accuracy 0.837373 - Training Loss 1.236809
+Mean : 0.793087
+Interval : [0.780864, 0.805310]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 2
+Leaning rate : 0.000100
+Number of hidden layers : 2
+Number of neurons in hidden layer : 128
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.853541 - Validation Loss 0.561606 - Training Accuracy 0.900248 - Training Loss 0.431849
+Run : 2 - Validation Accuracy : 0.859044 - Validation Loss 0.512020 - Training Accuracy 0.906387 - Training Loss 0.376181
+Run : 3 - Validation Accuracy : 0.846238 - Validation Loss 0.548875 - Training Accuracy 0.903088 - Training Loss 0.404276
+Run : 4 - Validation Accuracy : 0.856743 - Validation Loss 0.526160 - Training Accuracy 0.902888 - Training Loss 0.397829
+Run : 5 - Validation Accuracy : 0.855742 - Validation Loss 0.536169 - Training Accuracy 0.902368 - Training Loss 0.406468
+Run : 6 - Validation Accuracy : 0.853942 - Validation Loss 0.498547 - Training Accuracy 0.916287 - Training Loss 0.324198
+Run : 7 - Validation Accuracy : 0.853441 - Validation Loss 0.543542 - Training Accuracy 0.905728 - Training Loss 0.395499
+Run : 8 - Validation Accuracy : 0.849240 - Validation Loss 0.576358 - Training Accuracy 0.898708 - Training Loss 0.433820
+Run : 9 - Validation Accuracy : 0.852141 - Validation Loss 0.549878 - Training Accuracy 0.903448 - Training Loss 0.404008
+Run : 10 - Validation Accuracy : 0.856943 - Validation Loss 0.520677 - Training Accuracy 0.907247 - Training Loss 0.367930
+Mean : 0.853701
+Interval : [0.851461, 0.855942]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 3
+Leaning rate : 0.000100
+Number of hidden layers : 2
+Number of neurons in hidden layer : 128
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.842037 - Validation Loss 0.837926 - Training Accuracy 0.887789 - Training Loss 0.711212
+Run : 2 - Validation Accuracy : 0.844338 - Validation Loss 0.838625 - Training Accuracy 0.891609 - Training Loss 0.708921
+Run : 3 - Validation Accuracy : 0.849840 - Validation Loss 0.842369 - Training Accuracy 0.894248 - Training Loss 0.727695
+Run : 4 - Validation Accuracy : 0.829132 - Validation Loss 0.856878 - Training Accuracy 0.891409 - Training Loss 0.717104
+Run : 5 - Validation Accuracy : 0.855542 - Validation Loss 0.860356 - Training Accuracy 0.889249 - Training Loss 0.758946
+Run : 6 - Validation Accuracy : 0.833333 - Validation Loss 0.826308 - Training Accuracy 0.891849 - Training Loss 0.687521
+Run : 7 - Validation Accuracy : 0.842337 - Validation Loss 0.871307 - Training Accuracy 0.885469 - Training Loss 0.749533
+Run : 8 - Validation Accuracy : 0.854442 - Validation Loss 0.849815 - Training Accuracy 0.888809 - Training Loss 0.739131
+Run : 9 - Validation Accuracy : 0.853341 - Validation Loss 0.869678 - Training Accuracy 0.891089 - Training Loss 0.754775
+Run : 10 - Validation Accuracy : 0.852841 - Validation Loss 0.870011 - Training Accuracy 0.886929 - Training Loss 0.756210
+Mean : 0.845718
+Interval : [0.840337, 0.851100]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 4
+Leaning rate : 0.000100
+Number of hidden layers : 3
+Number of neurons in hidden layer : 64
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.862445 - Validation Loss 0.472383 - Training Accuracy 0.921566 - Training Loss 0.297760
+Run : 2 - Validation Accuracy : 0.858944 - Validation Loss 0.484053 - Training Accuracy 0.921106 - Training Loss 0.304402
+Run : 3 - Validation Accuracy : 0.861144 - Validation Loss 0.494527 - Training Accuracy 0.914807 - Training Loss 0.340271
+Run : 4 - Validation Accuracy : 0.832933 - Validation Loss 0.587742 - Training Accuracy 0.899428 - Training Loss 0.417942
+Run : 5 - Validation Accuracy : 0.822229 - Validation Loss 0.594190 - Training Accuracy 0.901348 - Training Loss 0.390060
+Run : 6 - Validation Accuracy : 0.814426 - Validation Loss 0.596572 - Training Accuracy 0.909807 - Training Loss 0.351181
+Run : 7 - Validation Accuracy : 0.806323 - Validation Loss 0.639559 - Training Accuracy 0.898568 - Training Loss 0.416759
+Run : 8 - Validation Accuracy : 0.810324 - Validation Loss 0.608519 - Training Accuracy 0.913947 - Training Loss 0.342098
+Run : 9 - Validation Accuracy : 0.852041 - Validation Loss 0.574099 - Training Accuracy 0.893968 - Training Loss 0.448001
+Run : 10 - Validation Accuracy : 0.853842 - Validation Loss 0.551658 - Training Accuracy 0.902688 - Training Loss 0.407899
+Mean : 0.837465
+Interval : [0.824148, 0.850782]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 5
+Leaning rate : 0.000100
+Number of hidden layers : 3
+Number of neurons in hidden layer : 64
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.179272 - Validation Loss 2.298129 - Training Accuracy 0.099152 - Training Loss 2.297940
+Run : 2 - Validation Accuracy : 0.112345 - Validation Loss 2.311325 - Training Accuracy 0.112371 - Training Loss 2.311773
+Run : 3 - Validation Accuracy : 0.208083 - Validation Loss 2.294401 - Training Accuracy 0.209063 - Training Loss 2.293915
+Run : 4 - Validation Accuracy : 0.206983 - Validation Loss 2.300544 - Training Accuracy 0.206084 - Training Loss 2.300459
+Run : 5 - Validation Accuracy : 0.182773 - Validation Loss 2.301264 - Training Accuracy 0.121710 - Training Loss 2.301243
+Run : 6 - Validation Accuracy : 0.209684 - Validation Loss 2.297701 - Training Accuracy 0.209743 - Training Loss 2.297394
+Run : 7 - Validation Accuracy : 0.196979 - Validation Loss 2.298331 - Training Accuracy 0.196404 - Training Loss 2.298034
+Run : 8 - Validation Accuracy : 0.112345 - Validation Loss 2.341506 - Training Accuracy 0.112371 - Training Loss 2.342215
+Run : 9 - Validation Accuracy : 0.195278 - Validation Loss 2.299292 - Training Accuracy 0.205724 - Training Loss 2.299170
+Run : 10 - Validation Accuracy : 0.112345 - Validation Loss 2.340200 - Training Accuracy 0.112371 - Training Loss 2.341062
+Mean : 0.171609
+Interval : [0.146851, 0.196366]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 6
+Leaning rate : 0.000100
+Number of hidden layers : 3
+Number of neurons in hidden layer : 128
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.851240 - Validation Loss 0.556258 - Training Accuracy 0.901128 - Training Loss 0.415193
+Run : 2 - Validation Accuracy : 0.851040 - Validation Loss 0.510901 - Training Accuracy 0.916307 - Training Loss 0.334044
+Run : 3 - Validation Accuracy : 0.854842 - Validation Loss 0.513930 - Training Accuracy 0.920766 - Training Loss 0.315098
+Run : 4 - Validation Accuracy : 0.852541 - Validation Loss 0.529250 - Training Accuracy 0.910847 - Training Loss 0.364311
+Run : 5 - Validation Accuracy : 0.833633 - Validation Loss 0.555217 - Training Accuracy 0.915007 - Training Loss 0.337958
+Run : 6 - Validation Accuracy : 0.850040 - Validation Loss 0.490885 - Training Accuracy 0.922426 - Training Loss 0.293855
+Run : 7 - Validation Accuracy : 0.836735 - Validation Loss 0.549850 - Training Accuracy 0.915867 - Training Loss 0.334359
+Run : 8 - Validation Accuracy : 0.854042 - Validation Loss 0.558591 - Training Accuracy 0.902588 - Training Loss 0.426470
+Run : 9 - Validation Accuracy : 0.854942 - Validation Loss 0.503561 - Training Accuracy 0.914867 - Training Loss 0.346703
+Run : 10 - Validation Accuracy : 0.865246 - Validation Loss 0.477096 - Training Accuracy 0.918727 - Training Loss 0.322850
+Mean : 0.850430
+Interval : [0.845071, 0.855790]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 7
+Leaning rate : 0.000100
+Number of hidden layers : 3
+Number of neurons in hidden layer : 128
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.112345 - Validation Loss 2.334491 - Training Accuracy 0.112371 - Training Loss 2.335790
+Run : 2 - Validation Accuracy : 0.206683 - Validation Loss 2.297862 - Training Accuracy 0.211863 - Training Loss 2.297699
+Run : 3 - Validation Accuracy : 0.112345 - Validation Loss 2.303522 - Training Accuracy 0.099292 - Training Loss 2.303851
+Run : 4 - Validation Accuracy : 0.116146 - Validation Loss 2.302414 - Training Accuracy 0.113311 - Training Loss 2.302596
+Run : 5 - Validation Accuracy : 0.179072 - Validation Loss 2.307774 - Training Accuracy 0.096512 - Training Loss 2.308148
+Run : 6 - Validation Accuracy : 0.200380 - Validation Loss 2.295239 - Training Accuracy 0.203044 - Training Loss 2.294832
+Run : 7 - Validation Accuracy : 0.207183 - Validation Loss 2.297791 - Training Accuracy 0.191685 - Training Loss 2.297616
+Run : 8 - Validation Accuracy : 0.175370 - Validation Loss 2.303889 - Training Accuracy 0.199144 - Training Loss 2.304071
+Run : 9 - Validation Accuracy : 0.203381 - Validation Loss 2.297863 - Training Accuracy 0.174186 - Training Loss 2.297661
+Run : 10 - Validation Accuracy : 0.123149 - Validation Loss 2.306371 - Training Accuracy 0.112771 - Training Loss 2.306746
+Mean : 0.163605
+Interval : [0.138650, 0.188561]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 8
+Leaning rate : 0.001000
+Number of hidden layers : 2
+Number of neurons in hidden layer : 64
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.851541 - Validation Loss 0.529051 - Training Accuracy 0.898888 - Training Loss 0.402394
+Run : 2 - Validation Accuracy : 0.840036 - Validation Loss 0.548337 - Training Accuracy 0.899188 - Training Loss 0.391043
+Run : 3 - Validation Accuracy : 0.837835 - Validation Loss 0.553519 - Training Accuracy 0.898608 - Training Loss 0.385136
+Run : 4 - Validation Accuracy : 0.846339 - Validation Loss 0.534138 - Training Accuracy 0.899088 - Training Loss 0.390434
+Run : 5 - Validation Accuracy : 0.855642 - Validation Loss 0.519175 - Training Accuracy 0.898068 - Training Loss 0.393703
+Run : 6 - Validation Accuracy : 0.838936 - Validation Loss 0.536485 - Training Accuracy 0.904168 - Training Loss 0.367156
+Run : 7 - Validation Accuracy : 0.851341 - Validation Loss 0.520323 - Training Accuracy 0.896088 - Training Loss 0.399824
+Run : 8 - Validation Accuracy : 0.842937 - Validation Loss 0.539217 - Training Accuracy 0.901288 - Training Loss 0.392118
+Run : 9 - Validation Accuracy : 0.851140 - Validation Loss 0.532892 - Training Accuracy 0.896388 - Training Loss 0.409488
+Run : 10 - Validation Accuracy : 0.834034 - Validation Loss 0.555319 - Training Accuracy 0.893069 - Training Loss 0.412138
+Mean : 0.844978
+Interval : [0.840715, 0.849241]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 9
+Leaning rate : 0.001000
+Number of hidden layers : 2
+Number of neurons in hidden layer : 64
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.808223 - Validation Loss 1.114501 - Training Accuracy 0.875550 - Training Loss 0.986042
+Run : 2 - Validation Accuracy : 0.803021 - Validation Loss 1.079411 - Training Accuracy 0.887209 - Training Loss 0.897584
+Run : 3 - Validation Accuracy : 0.785014 - Validation Loss 1.205773 - Training Accuracy 0.862191 - Training Loss 1.052696
+Run : 4 - Validation Accuracy : 0.827431 - Validation Loss 1.174779 - Training Accuracy 0.876690 - Training Loss 1.040850
+Run : 5 - Validation Accuracy : 0.808723 - Validation Loss 1.086854 - Training Accuracy 0.879990 - Training Loss 0.918118
+Run : 6 - Validation Accuracy : 0.840736 - Validation Loss 0.867885 - Training Accuracy 0.905628 - Training Loss 0.680159
+Run : 7 - Validation Accuracy : 0.793918 - Validation Loss 1.007209 - Training Accuracy 0.892429 - Training Loss 0.771305
+Run : 8 - Validation Accuracy : 0.819128 - Validation Loss 1.009885 - Training Accuracy 0.888289 - Training Loss 0.829372
+Run : 9 - Validation Accuracy : 0.789216 - Validation Loss 1.175192 - Training Accuracy 0.877630 - Training Loss 0.997971
+Run : 10 - Validation Accuracy : 0.830932 - Validation Loss 1.280132 - Training Accuracy 0.866391 - Training Loss 1.180064
+Mean : 0.810634
+Interval : [0.799661, 0.821608]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 10
+Leaning rate : 0.001000
+Number of hidden layers : 2
+Number of neurons in hidden layer : 128
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.840536 - Validation Loss 0.522092 - Training Accuracy 0.904588 - Training Loss 0.357348
+Run : 2 - Validation Accuracy : 0.856343 - Validation Loss 0.496134 - Training Accuracy 0.906088 - Training Loss 0.354134
+Run : 3 - Validation Accuracy : 0.851040 - Validation Loss 0.498392 - Training Accuracy 0.906088 - Training Loss 0.347042
+Run : 4 - Validation Accuracy : 0.855042 - Validation Loss 0.487255 - Training Accuracy 0.908167 - Training Loss 0.345021
+Run : 5 - Validation Accuracy : 0.855142 - Validation Loss 0.502661 - Training Accuracy 0.901648 - Training Loss 0.372871
+Run : 6 - Validation Accuracy : 0.859544 - Validation Loss 0.484438 - Training Accuracy 0.906787 - Training Loss 0.349364
+Run : 7 - Validation Accuracy : 0.851040 - Validation Loss 0.498139 - Training Accuracy 0.905128 - Training Loss 0.355831
+Run : 8 - Validation Accuracy : 0.860444 - Validation Loss 0.481191 - Training Accuracy 0.907087 - Training Loss 0.345577
+Run : 9 - Validation Accuracy : 0.844438 - Validation Loss 0.523766 - Training Accuracy 0.901388 - Training Loss 0.373980
+Run : 10 - Validation Accuracy : 0.851641 - Validation Loss 0.505452 - Training Accuracy 0.906587 - Training Loss 0.353235
+Mean : 0.852521
+Interval : [0.848833, 0.856209]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 11
+Leaning rate : 0.001000
+Number of hidden layers : 2
+Number of neurons in hidden layer : 128
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.834234 - Validation Loss 0.833610 - Training Accuracy 0.891489 - Training Loss 0.691297
+Run : 2 - Validation Accuracy : 0.820728 - Validation Loss 0.957424 - Training Accuracy 0.886909 - Training Loss 0.776142
+Run : 3 - Validation Accuracy : 0.833633 - Validation Loss 0.785648 - Training Accuracy 0.899288 - Training Loss 0.608818
+Run : 4 - Validation Accuracy : 0.844738 - Validation Loss 0.822205 - Training Accuracy 0.894588 - Training Loss 0.678251
+Run : 5 - Validation Accuracy : 0.842737 - Validation Loss 0.699598 - Training Accuracy 0.910607 - Training Loss 0.495658
+Run : 6 - Validation Accuracy : 0.838035 - Validation Loss 0.906135 - Training Accuracy 0.887329 - Training Loss 0.763918
+Run : 7 - Validation Accuracy : 0.827231 - Validation Loss 0.830052 - Training Accuracy 0.896968 - Training Loss 0.643105
+Run : 8 - Validation Accuracy : 0.836335 - Validation Loss 0.781897 - Training Accuracy 0.900628 - Training Loss 0.604950
+Run : 9 - Validation Accuracy : 0.836234 - Validation Loss 0.873110 - Training Accuracy 0.888929 - Training Loss 0.724497
+Run : 10 - Validation Accuracy : 0.805422 - Validation Loss 0.889921 - Training Accuracy 0.896208 - Training Loss 0.693227
+Mean : 0.831933
+Interval : [0.825102, 0.838763]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 12
+Leaning rate : 0.001000
+Number of hidden layers : 3
+Number of neurons in hidden layer : 64
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.812825 - Validation Loss 0.629235 - Training Accuracy 0.895008 - Training Loss 0.429502
+Run : 2 - Validation Accuracy : 0.861445 - Validation Loss 0.470852 - Training Accuracy 0.917307 - Training Loss 0.310435
+Run : 3 - Validation Accuracy : 0.823629 - Validation Loss 0.604701 - Training Accuracy 0.891809 - Training Loss 0.444903
+Run : 4 - Validation Accuracy : 0.865546 - Validation Loss 0.477495 - Training Accuracy 0.913927 - Training Loss 0.339167
+Run : 5 - Validation Accuracy : 0.826631 - Validation Loss 0.604181 - Training Accuracy 0.895648 - Training Loss 0.425446
+Run : 6 - Validation Accuracy : 0.806623 - Validation Loss 0.621433 - Training Accuracy 0.910367 - Training Loss 0.344705
+Run : 7 - Validation Accuracy : 0.807723 - Validation Loss 0.658525 - Training Accuracy 0.891589 - Training Loss 0.442756
+Run : 8 - Validation Accuracy : 0.826030 - Validation Loss 0.567104 - Training Accuracy 0.903608 - Training Loss 0.375352
+Run : 9 - Validation Accuracy : 0.851541 - Validation Loss 0.515314 - Training Accuracy 0.906307 - Training Loss 0.374393
+Run : 10 - Validation Accuracy : 0.824330 - Validation Loss 0.628226 - Training Accuracy 0.894048 - Training Loss 0.452328
+Mean : 0.830632
+Interval : [0.818006, 0.843258]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 13
+Leaning rate : 0.001000
+Number of hidden layers : 3
+Number of neurons in hidden layer : 64
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.789616 - Validation Loss 1.746870 - Training Accuracy 0.836613 - Training Loss 1.652545
+Run : 2 - Validation Accuracy : 0.615446 - Validation Loss 2.058048 - Training Accuracy 0.664827 - Training Loss 2.019573
+Run : 3 - Validation Accuracy : 0.691377 - Validation Loss 1.507522 - Training Accuracy 0.872930 - Training Loss 1.232546
+Run : 4 - Validation Accuracy : 0.590336 - Validation Loss 2.048527 - Training Accuracy 0.615871 - Training Loss 2.017721
+Run : 5 - Validation Accuracy : 0.707083 - Validation Loss 1.460841 - Training Accuracy 0.885909 - Training Loss 1.212513
+Run : 6 - Validation Accuracy : 0.621248 - Validation Loss 2.070323 - Training Accuracy 0.619310 - Training Loss 2.050542
+Run : 7 - Validation Accuracy : 0.649960 - Validation Loss 1.710019 - Training Accuracy 0.795436 - Training Loss 1.499548
+Run : 8 - Validation Accuracy : 0.637955 - Validation Loss 1.681877 - Training Accuracy 0.808835 - Training Loss 1.450979
+Run : 9 - Validation Accuracy : 0.493297 - Validation Loss 2.292052 - Training Accuracy 0.360411 - Training Loss 2.291518
+Run : 10 - Validation Accuracy : 0.616447 - Validation Loss 1.769389 - Training Accuracy 0.781218 - Training Loss 1.608205
+Mean : 0.641276
+Interval : [0.595265, 0.687288]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 14
+Leaning rate : 0.001000
+Number of hidden layers : 3
+Number of neurons in hidden layer : 128
+Activation function : LeakyReLU(negative_slope=0.01)
+Run : 1 - Validation Accuracy : 0.858143 - Validation Loss 0.481447 - Training Accuracy 0.919006 - Training Loss 0.307528
+Run : 2 - Validation Accuracy : 0.868547 - Validation Loss 0.448422 - Training Accuracy 0.919446 - Training Loss 0.302492
+Run : 3 - Validation Accuracy : 0.845638 - Validation Loss 0.511964 - Training Accuracy 0.903808 - Training Loss 0.363629
+Run : 4 - Validation Accuracy : 0.849340 - Validation Loss 0.557540 - Training Accuracy 0.897928 - Training Loss 0.419899
+Run : 5 - Validation Accuracy : 0.849740 - Validation Loss 0.533183 - Training Accuracy 0.902808 - Training Loss 0.384664
+Run : 6 - Validation Accuracy : 0.854342 - Validation Loss 0.496654 - Training Accuracy 0.910467 - Training Loss 0.336371
+Run : 7 - Validation Accuracy : 0.864846 - Validation Loss 0.476070 - Training Accuracy 0.912027 - Training Loss 0.338502
+Run : 8 - Validation Accuracy : 0.848739 - Validation Loss 0.539214 - Training Accuracy 0.903948 - Training Loss 0.387252
+Run : 9 - Validation Accuracy : 0.848840 - Validation Loss 0.516521 - Training Accuracy 0.911827 - Training Loss 0.339275
+Run : 10 - Validation Accuracy : 0.848139 - Validation Loss 0.531474 - Training Accuracy 0.902168 - Training Loss 0.387746
+Mean : 0.853631
+Interval : [0.849061, 0.858201]
+------------------------------------------------------------
+------------------------------------------------------------
+Configuration: 15
+Leaning rate : 0.001000
+Number of hidden layers : 3
+Number of neurons in hidden layer : 128
+Activation function : Sigmoid()
+Run : 1 - Validation Accuracy : 0.765606 - Validation Loss 1.505768 - Training Accuracy 0.857391 - Training Loss 1.336407
+Run : 2 - Validation Accuracy : 0.701080 - Validation Loss 1.626053 - Training Accuracy 0.766879 - Training Loss 1.492342
+Run : 3 - Validation Accuracy : 0.776311 - Validation Loss 1.413701 - Training Accuracy 0.878730 - Training Loss 1.242689
+Run : 4 - Validation Accuracy : 0.708784 - Validation Loss 1.271771 - Training Accuracy 0.867751 - Training Loss 1.010588
+Run : 5 - Validation Accuracy : 0.767707 - Validation Loss 1.213708 - Training Accuracy 0.871770 - Training Loss 0.978935
+Run : 6 - Validation Accuracy : 0.779612 - Validation Loss 1.362666 - Training Accuracy 0.873370 - Training Loss 1.145021
+Run : 7 - Validation Accuracy : 0.740996 - Validation Loss 1.371385 - Training Accuracy 0.878650 - Training Loss 1.153342
+Run : 8 - Validation Accuracy : 0.758703 - Validation Loss 1.478482 - Training Accuracy 0.847732 - Training Loss 1.315654
+Run : 9 - Validation Accuracy : 0.752501 - Validation Loss 1.565524 - Training Accuracy 0.872170 - Training Loss 1.408569
+Run : 10 - Validation Accuracy : 0.733293 - Validation Loss 1.452907 - Training Accuracy 0.864871 - Training Loss 1.263706
+Mean : 0.748459
+Interval : [0.732492, 0.764427]
+------------------------------------------------------------
+The results are saved in configs_results.json
+{0: {'leaning_rate': 0.0001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 64, 'activation_function': 0, 'mean': 0.84645855, 'interval': 0.009654535064876646}, 1: {'leaning_rate': 0.0001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 64, 'activation_function': 1, 'mean': 0.79308724, 'interval': 0.01222281769961359}, 2: {'leaning_rate': 0.0001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 128, 'activation_function': 0, 'mean': 0.8537015, 'interval': 0.002240306863715972}, 3: {'leaning_rate': 0.0001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 128, 'activation_function': 1, 'mean': 0.84571826, 'interval': 0.005381400916136211}, 4: {'leaning_rate': 0.0001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 64, 'activation_function': 0, 'mean': 0.837465, 'interval': 0.013317413121667161}, 5: {'leaning_rate': 0.0001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 64, 'activation_function': 1, 'mean': 0.17160866, 'interval': 0.024757573430706056}, 6: {'leaning_rate': 0.0001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 128, 'activation_function': 0, 'mean': 0.8504302, 'interval': 0.005359466961554508}, 7: {'leaning_rate': 0.0001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 128, 'activation_function': 1, 'mean': 0.16360544, 'interval': 0.024955264178359176}, 8: {'leaning_rate': 0.001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 64, 'activation_function': 0, 'mean': 0.844978, 'interval': 0.004262729114309347}, 9: {'leaning_rate': 0.001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 64, 'activation_function': 1, 'mean': 0.81063426, 'interval': 0.010973257658919697}, 10: {'leaning_rate': 0.001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 128, 'activation_function': 0, 'mean': 0.85252106, 'interval': 0.0036880243503702504}, 11: {'leaning_rate': 0.001, 'hidden_layer_num': 2, 'neurons_num_in_hidden_layer': 128, 'activation_function': 1, 'mean': 0.83193284, 'interval': 0.006830453269624801}, 12: {'leaning_rate': 0.001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 64, 'activation_function': 0, 'mean': 0.8306322, 'interval': 0.012626235526192181}, 13: {'leaning_rate': 0.001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 64, 'activation_function': 1, 'mean': 0.6412765, 'interval': 0.046011643534662625}, 14: {'leaning_rate': 0.001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 128, 'activation_function': 0, 'mean': 0.8536314, 'interval': 0.004569888178211453}, 15: {'leaning_rate': 0.001, 'hidden_layer_num': 3, 'neurons_num_in_hidden_layer': 128, 'activation_function': 1, 'mean': 0.74845934, 'interval': 0.015967168523854255}}
+The best configuration is:
+Leaning rate : 0.000100
+Number of hidden layers : 2
+Number of neurons in hidden layer : 128
+Activation function : LeakyReLU(negative_slope=0.01)
+Mean : 0.853701
+Interval : [0.851461, 0.855942]
+------------------------------------------------------------
+Run : 1 - Validation Accuracy : 0.917700 - Validation Loss 0.262846 - Training Accuracy 0.971233 - Training Loss 0.109475
+Run : 2 - Validation Accuracy : 0.910800 - Validation Loss 0.283085 - Training Accuracy 0.960800 - Training Loss 0.148302
+Run : 3 - Validation Accuracy : 0.902100 - Validation Loss 0.339772 - Training Accuracy 0.931133 - Training Loss 0.257912
+Run : 4 - Validation Accuracy : 0.908400 - Validation Loss 0.300223 - Training Accuracy 0.951367 - Training Loss 0.182432
+Run : 5 - Validation Accuracy : 0.902700 - Validation Loss 0.336857 - Training Accuracy 0.931433 - Training Loss 0.258390
+Run : 6 - Validation Accuracy : 0.907100 - Validation Loss 0.329104 - Training Accuracy 0.932583 - Training Loss 0.254705
+Run : 7 - Validation Accuracy : 0.915600 - Validation Loss 0.271880 - Training Accuracy 0.971167 - Training Loss 0.111390
+Run : 8 - Validation Accuracy : 0.915500 - Validation Loss 0.271503 - Training Accuracy 0.970483 - Training Loss 0.113860
+Run : 9 - Validation Accuracy : 0.902900 - Validation Loss 0.334583 - Training Accuracy 0.930433 - Training Loss 0.259144
+Run : 10 - Validation Accuracy : 0.910500 - Validation Loss 0.293206 - Training Accuracy 0.954117 - Training Loss 0.171317
+The accuracy score on the test dataset is:
+Mean : 0.909330
+Interval : [0.905967, 0.912693]
+------------------------------------------------------------
